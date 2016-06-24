@@ -2,5 +2,4 @@
 
 ## Identifiers
 * subject
-
 * activity
