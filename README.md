@@ -5,6 +5,7 @@ This project contains a script to reshape the data collected from the accelerome
 (original data is available here: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
 The script:
+
 1. Downloads the original data
 
 2. Merges the features and labels for the test and train datasets
